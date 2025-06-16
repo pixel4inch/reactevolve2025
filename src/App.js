@@ -12,14 +12,14 @@ import {
 } from './pages'
 
 // COMPONENTS
-import { Header, Footer, EventcommonStrip } from './components'
+import { Header, Footer } from './components'
 
 function App() {
   return (
     <div className="App h-100">
       <div className='d-flex flex-column h-100'>
         <Header/>
-        <EventcommonStrip/>
+        
         <div className='body-content'>
           <Routes>
             <Route path="/" exact element={<Home />} />

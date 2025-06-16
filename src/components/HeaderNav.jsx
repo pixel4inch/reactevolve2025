@@ -22,7 +22,6 @@ function HeaderNav() {
                    <span><i className="ti-angle-down"></i></span>
                 </a>
                 <ul className="dropdown-menu">
-
                     {
                         data.SubTab.map( subdata => {
                             return(
@@ -32,12 +31,8 @@ function HeaderNav() {
                                         </NavLink>
                                 </li>
                             )
-
                         })
                     }
-
-
-                     
                </ul>
              </li>
 

@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react'
 
-
 // components
 import {PageTitle, Helmet, SectionTitle, ImgCard} from '../components'
 

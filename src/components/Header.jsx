@@ -18,20 +18,10 @@ function header() {
                </button>
 
                <div className="collapse navbar-collapse" id="navbarNav">
-
                      <HeaderNav/>
-
                </div>
-
-           
-
             </div>
-
-
          </nav>
-
-
-
       </>
    )
 }
