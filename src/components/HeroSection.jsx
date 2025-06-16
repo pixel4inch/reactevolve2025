@@ -39,7 +39,7 @@ function HeroSection() {
                 <h1  >FOUNDER-FOCUSED</h1>
                 <div className="w-100 d-flex  flex-xl-row flex-lg-row   flex-column justify-content-xl-between justify-content-lg-between justify-content-center ">
                 <h4>EVENT ON THE EARTH</h4>
-                <p>Evolve™ is a not-for-profit building the world’s leading startup event and the largest gathering of VC — delivering actionable company-building advice and bringing together the who’s who in the ecosystem.</p>
+                <p>Evolve Silicon Valley Foundation (Evolve SVF) is a non-profit foundation based in the U.S. Our primary mission is to empower today’s tech entrepreneurs with a research-based, data-driven, and action-oriented global playbook.</p>
                
                 <Link to='/magic' class="d-lg-none d-xl-none d-md-block d-sm-block d-block">JOIN THE EVOLVE MAGIC</Link>
 
