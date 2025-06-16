@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../img/logo.svg'
-import B20 from '../img/B20.jpg'
+
 import { Link } from 'react-router-dom'
 
 //import COMPONENT
@@ -23,7 +23,7 @@ function header() {
 
                </div>
 
-               <img src={B20} alt="Evolv" className="b20-logo  d-md-none d-sm-none d-none" />
+           
 
             </div>
 
