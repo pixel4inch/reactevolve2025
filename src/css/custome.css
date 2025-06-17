@@ -244,10 +244,6 @@ TITLES AND COLORS
     line-height: normal !important;
 }
 
-.section-title {
-    margin-top: 25px;
-
-}
 
 .section-title h4 {
     color: var(--secondcolor);
@@ -1140,17 +1136,6 @@ image placekeeper
 /*===================
   profile
 =====================*/
-#profile p:first-child:first-letter,
-#profile p:nth-child(3):first-letter {
-    color: var(--maincolordefault);
-    float: left;
-    font-family: Georgia;
-    font-size: 75px;
-    line-height: 60px;
-    padding-top: 4px;
-    padding-right: 8px;
-    padding-left: 3px;
-}
 
 #profile p {
     margin-bottom: 15px;

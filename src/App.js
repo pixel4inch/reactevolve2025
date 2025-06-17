@@ -11,6 +11,7 @@ import {
   PrivacyPolicy, ServiceAggrement, Partner, Contact, CalEvents, NextTech, Error, Magic, Forgetpassword, Registration
 } from './pages'
 
+import Evolveapidata from './pages/Evolveapidata'; 
 // COMPONENTS
 import { Header, Footer } from './components'
 
@@ -26,6 +27,7 @@ function App() {
             <Route path="/profile" exact element={<Profile />} />
             <Route path="/initiatives" exact element={<Initiatives />} />
             <Route path="/data" exact element={<Data />} />
+         
             {/*PROGARM*/}
             <Route path="/innovatorSynergies" exact element={<InnovatorSynergies />} />
             <Route path="/stainability" exact element={<Sustainability />} />
